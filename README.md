@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **[Interesting Fact About You]**
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=B-i-x&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B-i-x&layout=compact&theme=dark&background=000000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-i-x&layout=compact)
 
