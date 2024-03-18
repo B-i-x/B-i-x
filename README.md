@@ -1,13 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alex Romero-Lozano 👋
 
 ## About Me
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[Project or Topic]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+Currently an electrical and computer engineering student at the University of Arizona
 
 ## My GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center;">
