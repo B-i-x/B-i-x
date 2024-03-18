@@ -10,9 +10,9 @@
 - ⚡ Fun fact: **[Interesting Fact About You]**
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=B-i-x&layout=compact&theme=dark&background=000000)
+![Your GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=B-i-x&theme=dark&background=000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-i-x&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-i-x&layout=compact&theme=dark)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
