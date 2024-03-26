@@ -16,4 +16,4 @@ Currently an electrical and computer engineering student at the University of Ar
 ## Projects
 <!-- List your projects or pin them on your profile -->
 Here are some of my projects
-- **[BAJA Telemetry System](Link to Project)** - The code for a multi-nodal telemetry system for UofA's BAJA team
+- **[BAJA Telemetry System](https://github.com/UofA-BAJA/2023-2024-Firmware)** - The code for a multi-nodal telemetry system for UofA's BAJA team
