@@ -1,7 +1,7 @@
 # Hi there, I'm Alex Romero-Lozano 👋
 
 ## About Me
-Currently an electrical and computer engineering student at the University of Arizona. I love to hike and play sports.
+Currently an electrical and computer engineering student at the University of Arizona. I love to hike and play sports. Here is my [website](http://alexromloz.com/) that is still under development.
 
 ## My GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center;">
