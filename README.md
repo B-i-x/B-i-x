@@ -5,7 +5,7 @@ Currently an electrical and computer engineering student at the University of Ar
 
 ## My GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="180px" style="margin:20px;" src="https://github-readme-stats.vercel.app/api?username=B-i-x&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180px" style="margin:20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=B-i-x" />
 </div>
 
 ## Projects
